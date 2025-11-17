@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,TSports HD
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1,Willow Cric2
+http://172.16.29.2:8090/hls/WillowCricket2HD.m3u8
+#EXTINF:-1,ASportsHD
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1,Star Sports HD2
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1,StarSportsSelect1HD
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1,StarSportsSelect2HD
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1,Willow Cricket
+http://172.16.29.2:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1,Xtreme Sports
+http://172.16.29.2:8090/hls/xtreamsports.m3u8
+#EXTINF:-1,StarSportsHindi2HD
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1,StarSports1HD
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1,SonyTen5HD
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1,SonyTen2hd
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1,SonyTen1hd
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1,SonyTen3hd
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1,fubosports
+http://172.16.29.2:8090/hls/fubosports.m3u8
+#EXTINF:-1,Astro Cricket
+http://103.240.44.26/Astro-Cricket/tracks-a1/index.fmp4.m3u8
